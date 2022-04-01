@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "mongoose": "^6.2.9",
+    "nodemon": "^2.0.15"
+  },
+  "name": "mongoose-hello-world",
+  "description": "This repo is created for the purpose of learning mongoDB and mongoose dependency",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "start": "nodemon script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhilsaikoppanatham/mongoose-hello-world.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akhilsaikoppanatham/mongoose-hello-world/issues"
+  },
+  "homepage": "https://github.com/akhilsaikoppanatham/mongoose-hello-world#readme"
+}
